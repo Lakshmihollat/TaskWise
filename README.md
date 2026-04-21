@@ -34,7 +34,7 @@ Unlike static trackers, TaskWise implements a state-transition model for habits:
 ## 🚀 Installation & Setup
 1. **Clone the repo:**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/TaskWise.git](https://github.com/YOUR_USERNAME/TaskWise.git)
+   git clone [https://github.com/Lakshmihollat/TaskWise.git](https://github.com/Lakshmihollat/TaskWise.git)
 
 2. **Install dependencies:**
    ```bash
@@ -46,4 +46,4 @@ Unlike static trackers, TaskWise implements a state-transition model for habits:
 
 1. **Clone the repo:**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/TaskWise.git](https://github.com/YOUR_USERNAME/TaskWise.git)
+   git clone [https://github.com/Lakshmihollat/TaskWise.git](https://github.com/Lakshmihollat/TaskWise.git)
