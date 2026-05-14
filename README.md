@@ -1,8 +1,8 @@
-# TaskWise: Intelligent Task & Habit Manager 🚀
+# TaskWise: Intelligent Task & Habit Manager 
 
 TaskWise is a cross-platform productivity application developed with **Flutter** that goes beyond traditional to-do lists. It utilizes a deterministic rule-based engine to prioritize tasks and a temporal logic system to manage long-term habit formation through streaks.
 
-## 🧠 The Intelligence Layer
+##  The Intelligence Layer
 
 The core of TaskWise is an **Urgency Scoring Algorithm** that mitigates decision fatigue by mathematically calculating the "next best task."
 
@@ -24,14 +24,14 @@ Unlike static trackers, TaskWise implements a state-transition model for habits:
 - **Database:** [Hive NoSQL](https://pub.dev/packages/hive) — A lightning-fast, key-value storage engine using binary serialization for 100% offline persistence.
 - **Visualizations:** [FL Chart](https://pub.dev/packages/fl_chart) — Data-driven analytics showing user efficiency and streak history.
 
-## 📊 Key Features
+##  Key Features
 
 - **Smart Dashboard:** Real-time productivity metrics including Efficiency Ratios and the "Streak Champion" metric.
 - **Intelligent Alerts:** Context-aware notifications that trigger only when a newly added task disrupts the current priority stack.
 - **Offline-First:** No external server dependency; all data is serialized locally for maximum privacy and speed.
 - **Modern UI:** A "Midnight" palette designed for high focus and reduced eye strain during long academic sessions.
 
-## 🚀 Installation & Setup
+##  Installation & Setup
 1. **Clone the repo:**
    ```bash
    git clone [https://github.com/Lakshmihollat/TaskWise.git](https://github.com/Lakshmihollat/TaskWise.git)
